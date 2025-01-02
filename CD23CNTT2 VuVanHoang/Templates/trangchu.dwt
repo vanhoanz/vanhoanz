@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="../hd.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="contain">
+<div class="layout">
+	<div class="header">
+		<h1>Mobile electronics</h1>
+		<p style="color:#C1BFBF">Highly professional mobile electronics installers<p>
+	</div>
+	<div class="middle">
+		<li><a href="forest.html">Car navigation system</a></li>
+		<li><a href="trangchu.html">Car video</a></li>
+		<li><a href="video.html">Car audio</a></li>
+		<li><a href="nd2.html">Car sercurity</a></li>
+		<li><a href="about.html">Remote car starters</a></li>
+	</div>
+	<!-- TemplateBeginEditable name="EditRegion1" -->
+	<div class="center">
+	  <div class="noidung">
+	    <div class="noidung1">
+	      <h1>AVH-P4000DVD</h1>
+	      <div class="anh1"><img src="../../sp1.jpg"></div>
+	      <p>- Use your voice to control iPod and phone calls</p>
+	      <p>- iPod Audio/Video Cable (CD-IU230V) included</p>
+	      <p>- Hi-Volt Pre-Out x3 (4.0V)</p>
+        </div>
+	    <div class="noidung2">
+	      <div class="pic1">
+	        <h3 style="color:#373636">AVIC-F900BT</h3>
+	        <img src="../../sp2.jpg" alt="">
+	        <p style="color:#C1BFBF">Advandced Multimedia On-Dash Navigation System</p>
+          </div>
+	      <div class="pic2" alt="">
+	        <h3 style="color:#373636">AVIC-S2</h3>
+	        <img src="../../sp3.jpg">
+	        <p style="color:#C1BFBF">Get Steered in the Right Direction</p>
+          </div>
+	      <div class="pic3">
+	        <h3 style="color:#373636">AVIC-S1</h3>
+	        <img src="../../sp4.jpg">
+	        <p style="color:#C1BFBF">Advandced Multimedia On-Dash Navigation System</p>
+          </div>
+        </div>
+      </div>
+	  <div class="noidung3">
+	    <div class="nd1">
+	      <h3>Installation</h3>
+        </div>
+	    <div class="nd2">
+	      <p><a href="#">Aftermarket CD Players</a></p>
+	      <p><a href="#">CD Changers Remote</a></p>
+	      <p><a href="#">In-Dash Navigation Systems</a></p>
+	      <p><a href="#">Alarms Paging System</a></p>
+	      <p><a href="#">Bluetooth Hands Free systems</a></p>
+	      <p><a href="#">Pair of Speakers & Subs</a></p>
+	      <p><a href="#">Power Window Systems</a></p>
+	      <p><a href="#">Door Lock Systems</a></p>
+	      <p><a href="#">Drop Down Monitors</a></p>
+	      <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <h4>Thi kết thúc môn Đồ Họa Ứng Dụng</h4>
+    </div>
+	<!-- TemplateEndEditable --></div>
+</div>
+</body>
+</html>
